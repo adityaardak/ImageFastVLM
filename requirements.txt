@@ -1,0 +1,13 @@
+torch
+torchvision
+torchaudio
+gradio
+transformers
+accelerate
+tokenizers
+datasets
+Pillow
+numpy
+requests
+scipy
+timm
